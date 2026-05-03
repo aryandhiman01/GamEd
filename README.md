@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <b>Transforming Environmental Education into Real-World Action using Gamification & AI</b>
+  <b>Transforming Environmental Education into Real-World Action using Gamification</b>
 </p>
 
 ---
 
 ## 🚀 Overview
 
-**Gamified Environmental Education Platform** is an AI-powered web platform designed for **schools and colleges** to promote **environmental awareness, real-world eco-actions, and measurable sustainability impact** through engaging gamification techniques.
+**Gamified Environmental Education Platform** is a web platform designed for **schools and colleges** to promote **environmental awareness, real-world eco-actions, and measurable sustainability impact** through engaging gamification techniques.
 
 Unlike traditional theory-based learning, this platform converts **learning into action**.
 
@@ -96,8 +96,6 @@ A **gamified + AI-driven ecosystem** where students:
 
 User → React Frontend → Node/Express API → MongoDB
 ↓
-AI Engine (Python)
-↓
 Analytics Dashboard
 
 yaml
@@ -164,7 +162,7 @@ Copy code
 
 ## 🧪 Installation & Setup
 
-```bash
+`bash
 # Clone repository
 git clone https://github.com/your-username/gamified-eco-education.git
 
